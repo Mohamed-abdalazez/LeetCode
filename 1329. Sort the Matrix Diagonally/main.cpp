@@ -50,7 +50,7 @@ int main()
     {
       cout << obj.diagonalSort(mat)[i][j] << " ";
     }
-    cout << endl;
+    cout << "/n";
   }
   return 0;
 }
