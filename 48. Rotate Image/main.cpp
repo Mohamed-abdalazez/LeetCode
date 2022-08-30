@@ -19,15 +19,15 @@ public:
       temp--;
     }
     /*
-    for (auto it : mv)
-    {
-      cout << it.first << " ";
-      for (auto i : it.second)
-      {
-        cout << i << " ";
-      }
-      cout << endl;
-    }
+        for (auto it : mv)
+        {
+          cout << "key: " << it.first << ", row: ";
+          for (auto i : it.second)
+          {
+            cout << i << " ";
+          }
+          cout << endl;
+        }
     */
     temp = 0;
     for (int i = 0; i < n; i++)
