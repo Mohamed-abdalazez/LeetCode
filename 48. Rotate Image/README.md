@@ -1,6 +1,8 @@
 # 48. Rotate Image
 
-Problem Link: https://leetcode.com/problems/rotate-image/
+> Problem Link: https://leetcode.com/problems/rotate-image/
+>
+> Blog Link: https://leetcode.com/problems/rotate-image/discuss/2505374/c-simple-solution-using-map-of-deque
 
 
 **First Initialize ```map<int, deque<int>> mv;```to map each row, from zero to n - 1:-**
